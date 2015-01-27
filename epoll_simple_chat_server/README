@@ -1,4 +1,4 @@
-simple chat server Base on C Epoll framework,²Î¿¼£º
+ï»¿simple chat server Base on C Epoll framework,å‚è€ƒï¼š
 https://github.com/edisonlz/c_epoll_framework
 
 Client A ->  telnet 10.x.x.x 2020
