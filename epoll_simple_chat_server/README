@@ -1,0 +1,11 @@
+simple chat server Base on C Epoll framework,²Î¿¼£º
+https://github.com/edisonlz/c_epoll_framework
+
+Client A ->  telnet 10.x.x.x 2020
+
+client B->   telnet 10.x.x.x 2020
+
+A set B fd: example 5
+
+Now we can communicate A with B , join it.
+first input the B's sockfd,then start communicate.
