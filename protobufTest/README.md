@@ -1,3 +1,3 @@
 ##protobuf test
 
-ÊÇhttps://github.com/ashpe/GameServerµÄclone
+æ˜¯https://github.com/ashpe/GameServerçš„clone
